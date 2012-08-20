@@ -1,4 +1,4 @@
 <?php
-	echo "AAAA";"
-	
+	echo "AAAA";
+	echo "	Nova Linha ";
 ?>
